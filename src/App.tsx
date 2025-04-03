@@ -11,6 +11,12 @@ function App() {
       <div className="container">hello loujain</div>
       <button>Login</button>
       <p>lets start our project </p>
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi vitae
+        dignissimos officiis aspernatur odit saepe adipisci similique quo soluta
+        temporibus dolores vero dolorem eius at, ipsam cupiditate aperiam earum
+        eum?{" "}
+      </p>
     </>
   );
 }
